@@ -1,4 +1,4 @@
-# Exception Handling in C++
+## Exception Handling in C++
 
 This C++ program illustrates the concept of exception handling when performing division. It showcases how to handle exceptions thrown when attempting to divide by zero.
 
